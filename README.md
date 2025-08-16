@@ -3,9 +3,9 @@
 
 An interactive web application built with Streamlit and Plotly to visualize and analyze the global spread of the COVID-19 pandemic. This dashboard allows users to explore time-series trends and geospatial data for over 200 countries.
 
-##Requirements: 
+## Requirements: 
 streamlit,pandas,plotly 
-##Run the Streamlit App
+## Run the Streamlit App
 Launch the application from your terminal.
 run code:  streamlit run app.py
 ### Images from the dashboard
